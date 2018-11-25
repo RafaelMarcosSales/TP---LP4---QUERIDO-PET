@@ -6,7 +6,7 @@
 <html lang="pt-BR">
   <head>
     <meta charset="utf-8">
-    <title>Sistema SOS PET</title>
+    <title>Sistema QUERIDO PET</title>
   </head>
   <?php include("cabecalho.php"); ?>
   <body>
